@@ -7,7 +7,7 @@
 
 # The keywords COLOR, OPTIONS, and EIGHTBIT (honored by the
 # slackware version of dircolors) are recognized but ignored.
-
+sssssssssssssssssssssssssssssssssssss
 # Below are TERM entries, which can be a glob patterns, to match
 # against the TERM environment variable to determine if it is colorizable.
 TERM Eterm
